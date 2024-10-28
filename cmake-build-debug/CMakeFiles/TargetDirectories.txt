@@ -1,0 +1,3 @@
+D:/Mérnökinformatika/3. félév/Hálózatok/Switch/cmake-build-debug/CMakeFiles/Switch.dir
+D:/Mérnökinformatika/3. félév/Hálózatok/Switch/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mérnökinformatika/3. félév/Hálózatok/Switch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

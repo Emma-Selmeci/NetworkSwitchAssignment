@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dace3f7a-bc09-41f1-9408-f90994c8d8b7" name="cortex">
+        <fileTransfer rootFolder="/home/selma5" accessType="SFTP" host="cortex.itk.ppke.hu" port="22" sshConfigId="48ef335c-7f18-410b-9d15-3f7d1fdaf1d9" sshConfig="selma5@cortex.itk.ppke.hu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Switch",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Switch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Switch-Debug-bec0c089bb34d70f1cf6.json",
+					"name" : "Switch",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/M\u00e9rn\u00f6kinformatika/3. f\u00e9l\u00e9v/H\u00e1l\u00f3zatok/Switch/cmake-build-debug",
+		"source" : "D:/M\u00e9rn\u00f6kinformatika/3. f\u00e9l\u00e9v/H\u00e1l\u00f3zatok/Switch"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

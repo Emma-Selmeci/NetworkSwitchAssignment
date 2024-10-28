@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="cortex.itk.ppke.hu" id="48ef335c-7f18-410b-9d15-3f7d1fdaf1d9" port="22" nameFormat="DESCRIPTIVE" username="selma5" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
